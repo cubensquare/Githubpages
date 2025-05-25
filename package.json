@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://pr3m19.github.io/my-gh-pages-app", 
+  "homepage": "https://cubensquare.github.io/Githubpages", 
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
